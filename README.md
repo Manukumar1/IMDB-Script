@@ -33,4 +33,8 @@ Example: Game of Thrones, next season begins at 2019.
 For case 1, we iterate over all the episode dates from class: "airdate" and go to the date which is larger than today's date. 
 Example: The Big Bang Theory
 
+Status: (for use case 1) Next episode airs on <yyyy-mm-dd>.
+(for use case 2) The next season begins in <yyyy>.
+(for use case 3) The show has finished streaming all its episodes.
+
 These dates are stored in an array and sent to the user Email Address by my script.
