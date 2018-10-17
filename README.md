@@ -23,3 +23,14 @@ Three cases of Series are:
 1. Exact date is mentioned for next episode.
 2. Only year is mentioned for next season.
 3. All the seasons are finished and no further details are available.
+
+For case 3, I am looking at the title of the series, for Example: Friends series title will show: Friends (1994–2004)
+If show endDate exists, it falls under case 3.
+
+For case 2, we look at the first episode date of the latest season. If the date format is 'YYYY', then it falls under case 2.
+Example: Game of Thrones, next season begins at 2019.
+
+For case 1, we iterate over all the episode dates from class: "airdate" and go to the date which is larger than today's date. 
+Example: The Big Bang Theory
+
+These dates are stored in an array and sent to the user Email Address by my script.
