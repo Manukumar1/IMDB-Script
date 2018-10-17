@@ -35,7 +35,7 @@ Example: The Big Bang Theory
 
 Status: (for use case 1) Next episode airs on <yyyy - mm - dd>.
 
-(for use case 2) The next season begins in <yyyy>.
+(for use case 2) The next season begins in < yyyy >.
 
 (for use case 3) The show has finished streaming all its episodes.
 
