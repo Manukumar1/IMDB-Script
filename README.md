@@ -1,5 +1,5 @@
 # IMDB-Script
-Innovaccer Summer Intern Hiring Challenge - IMDB Script
+IMDB Script
 
 The Script takes following input from users in the Input/Output Console:
 1). User Name
