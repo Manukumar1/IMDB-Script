@@ -2,6 +2,7 @@
 """
 @author: Manu kumar
 """
+
 ############################ IMPORTING PACKAGES ##########################
 from bs4 import BeautifulSoup
 from urllib.request import urlopen
