@@ -1,6 +1,12 @@
 # IMDB-Script
 IMDB Script
 
+Tested on Anaconda Spyder with Python 3.7
+
+**Install mysql-connector for Python 3.7 using: 
+pip install mysql-connector-python**
+
+
 The Script takes following input from users in the Input/Output Console:
 1). User Name
 2). Email address 
@@ -42,6 +48,6 @@ Status: (for use case 1) Next episode airs on <yyyy - mm - dd>.
 These dates are stored in an array and sent to the user Email Address by my script.
 
 
-Screenshots of Outputs:
-Output in Email
+**Screenshots of Outputs:
+Output in Email**
 ![alt text](https://github.com/Manukumar1/IMDB-Script/blob/master/showDetails.png "Show Details Email")
