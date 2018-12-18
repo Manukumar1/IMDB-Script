@@ -40,3 +40,7 @@ Status: (for use case 1) Next episode airs on <yyyy - mm - dd>.
 (for use case 3) The show has finished streaming all its episodes.
 
 These dates are stored in an array and sent to the user Email Address by my script.
+
+Screenshots of Outputs:
+Output in Email
+![alt text](https://github.com/Manukumar1/IMDB-Script/blob/master/showDetails.png "Show Details Email")
